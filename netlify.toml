@@ -1,0 +1,137 @@
+[[redirects]]
+from = "/evoting"
+to = "https://evoting.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "/portfolio"
+to = "https://profile.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "/eauctions"
+to = "https://eauctions.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "/edataroom"
+to = "https://edataroom.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "/eauctionsforall"
+to = "https://eauctionsforall.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "/eauctionsforip"
+to = "https://eauctionsforip.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "/evotingforall"
+to = "https://evotingforall.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "/evotingforip"
+to = "https://evotingforip.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "/evotingplatform"
+to = "https://evotingplatform.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "/eauctionsplatform"
+to = "https://eauctionsplatform.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+[[redirects]]
+from = "/onlinetest"
+to = "https://onlinetest.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+from = "/payrool"
+to = "https://payrool.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+from = "/onlineexam"
+to = "https://onlineexam.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+from = "/exam"
+to = "https://exam.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+from = "/exam"
+to = "https://exam.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+from = "/paper"
+to = "https://paper.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+from = "/examination"
+to = "https://examination.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+from = "/examinationplatform"
+to = "https://examinationplatform.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+from = "/onlineexaminationpartform"
+to = "https://onlineexaminationpartform.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+from = "/onlineexamination"
+to = "https://onlineexamination.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
+from = "/onlinetestplatform"
+to = "https://onlinetestplatform.gstforce.in/"
+status = 200
+force = true # COMMENT: ensure that we always redirect
+headers = {X-From = "Netlify"}
+signed = "API_SIGNATURE_TOKEN"
